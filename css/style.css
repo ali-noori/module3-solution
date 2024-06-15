@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    font-family: "Poetsen One", sans-serif;
+    background-color: darkgrey;
+    padding: 20px;
+    border: 2px solid black;
+}
+.navbar-brand {
+    font-size: xx-large;
+}
+
+.navbar-nav {
+    margin: 0 auto;
+    display: flex;
+}
+.heading{
+    font-size: 40px;
+    font-family: "Poetsen One", sans-serif;
+}
+.content{
+    font-size: 20px;
+    font-family: "Poetsen One", sans-serif;
+}
